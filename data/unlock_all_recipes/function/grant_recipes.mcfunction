@@ -1,6 +1,57 @@
 #schedules next function run
 schedule function unlock_all_recipes:grant_recipes 60s
-#grants recipes
+
+#grants datapack recipes minelife
+recipe give @a crafting:totem_call_an_ambulance
+recipe give @a crafting:totem_craemon
+recipe give @a crafting:totem_doncoaleone
+recipe give @a crafting:totem_jo_0924
+recipe give @a crafting:totem_small
+recipe give @a crafting:totem_tekeyn
+
+#grants datapack recipes craemon
+recipe give @a crafting:chainmail_boots
+recipe give @a crafting:chainmail_chestplate
+recipe give @a crafting:chainmail_helmet
+recipe give @a crafting:chainmail_leggings
+
+recipe give @a crafting:tall_fern_recipe
+recipe give @a crafting:tall_grass_recipe
+
+recipe give @a crafting:waxed_copper_door
+recipe give @a crafting:waxed_copper_trapdoor
+recipe give @a crafting:copper_door
+recipe give @a crafting:copper_trapdoor
+recipe give @a crafting:waxed_exposed_copper_door
+recipe give @a crafting:waxed_exposed_copper_trapdoor
+recipe give @a crafting:exposed_copper_door
+recipe give @a crafting:exposed_copper_trapdoor
+recipe give @a crafting:waxed_oxidized_copper_door
+recipe give @a crafting:waxed_oxidized_copper_trapdoor
+recipe give @a crafting:oxidized_copper_door
+recipe give @a crafting:oxidized_copper_trapdoor
+recipe give @a crafting:waxed_weathered_copper_door
+recipe give @a crafting:waxed_weathered_copper_trapdoor
+recipe give @a crafting:weathered_copper_door
+recipe give @a crafting:weathered_copper_trapdoor
+
+#grants datapack recipes other
+recipe give @a coral_blocks:brain_coral_block
+recipe give @a coral_blocks:bubble_coral_block
+recipe give @a coral_blocks:fire_coral_block
+recipe give @a coral_blocks:horn_coral_block
+recipe give @a coral_blocks:tube_coral_block
+recipe give @a crafting:blackstone_brewing_stand
+recipe give @a crafting:blackstone_dispenser
+recipe give @a crafting:blackstone_dropper
+recipe give @a crafting:blackstone_lever
+recipe give @a crafting:blackstone_observer
+recipe give @a crafting:blackstone_piston
+recipe give @a dropper_to_dispenser:dispenser
+recipe give @a dropper_to_dispenser:dispenser_alternate
+recipe give @a flint_to_gravel:gravel
+
+#grants vanilla recipes
 recipe give @a minecraft:birch_hanging_sign
 recipe give @a minecraft:diamond_leggings
 recipe give @a minecraft:cooked_salmon_from_smoking
